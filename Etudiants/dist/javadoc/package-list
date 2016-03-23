@@ -1,0 +1,10 @@
+appli_etudiants
+appli_etudiants.Administration
+appli_etudiants.EnTete
+appli_etudiants.classes
+appli_etudiants.cv
+appli_etudiants.cv.CentresDinteret
+appli_etudiants.cv.ExperiencePro
+appli_etudiants.cv.Formation
+appli_etudiants.cv.Informatique
+appli_etudiants.cv.Langues
